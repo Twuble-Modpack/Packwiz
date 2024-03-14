@@ -1,0 +1,111 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = f5f54cc9-10cf-4d58-a5b7-c2f697a66e561700978726836
+  y = 345
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 403
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2ae339c5-00e7-4728-b4d2-1ac6a646d6941700978726899
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 182
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3c02a1d8-1603-4e93-a5b6-a9ba38b019df1700978726901
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 100
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 3db976c5-be9a-44eb-8d9c-837f2d082fad1700978726901
+  y = 73
+  splash_file_path = config/fancymenu/assets/splash-text.txt
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/assets/logo.png
+  orientation = top-centered
+  x = -128
+  width = 258
+  action = addtexture
+  actionid = 8773b932-21a8-417d-9c6c-b3a2e0d3f3701700978862988
+  y = 30
+  height = 51
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Create Extra
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 1
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 4b9c17d3-431c-4044-af59-b5c1f70ab1001700979127988
+  y = -25
+  alignment = left
+  height = 13
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Version 1.5.2
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -201
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 05144faa-7c07-489d-b01a-c998bb00a0391700979228850
+  y = -25
+  alignment = right
+  height = 13
+}
+
