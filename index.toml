@@ -701,39 +701,28 @@ file = "mods/create-0.5.1-d-build.1162+mc1.20.1.jar"
 hash = "f438f644ba202d977ce6564a3aa7edf7bf01e45552426c0e2dc80fbb55247bb9"
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
-metafile = true
+file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
-metafile = true
+file = "mods/create_enchantment_industry-1.2.12.jar"
+hash = "94f8ed16871b457cf925a9c832251025b647fa375efda75842e39cedcd35adf1"
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
-metafile = true
+file = "mods/createaddition-fabric+1.20.1-0.9.0.jar"
+hash = "49e1f7fea0505225b0a200f74a64c1580d1acafe10d08cc57fa7dcd4052e399b"
 
 [[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "8632b0200d1a2d33dad115b6dda6ba96297fd3e402be07e07bfe8b877dbfb151"
-metafile = true
+file = "mods/createbigcannons-fabric-1.20.1-0.5.3.b.jar"
+hash = "294f2963a4719fddcafe2aa2a28ff3694190baf1a8b180fb2bd99cf060270da2"
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
-metafile = true
+file = "mods/createdeco-2.0.1-1.20.1-fabric.jar"
+hash = "4ab5e1b45ae7f43867f3c94d507f0ff9613583a6083e35cf1eea2b163e536156"
 
 [[files]]
-file = "mods/create-structures.pw.toml"
-hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
-metafile = true
+file = "mods/creategoggles-1.20.1-0.5.5.f-[FABRIC].jar"
+hash = "4ebcc5a34db6850d39a5687941e095b79763922b1dd2986374315faff6bf5f82"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
