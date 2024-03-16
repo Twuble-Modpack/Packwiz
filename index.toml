@@ -298,7 +298,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+hash = "020d92c7f3b0568f9b2e6b66f3d9e9206bb0143d3a6142c08cb1dca9632747fd"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/localhost/villager-trading-config.json"
