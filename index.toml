@@ -835,6 +835,11 @@ hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "234b120426975554aa7f9e49788c7a3ddb0d32e538f4ca102791549dec23c42b"
 metafile = true
@@ -927,6 +932,11 @@ metafile = true
 [[files]]
 file = "mods/mod-sets.pw.toml"
 hash = "b21d870c7940a5f03502260fc329c241771d0d3342644bffa979c5f5e4c916e5"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
 metafile = true
 
 [[files]]
