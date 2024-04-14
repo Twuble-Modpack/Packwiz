@@ -701,6 +701,11 @@ file = "mods/create-0.5.1-d-build.1162+mc1.20.1.jar"
 hash = "f438f644ba202d977ce6564a3aa7edf7bf01e45552426c0e2dc80fbb55247bb9"
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
 hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
 
