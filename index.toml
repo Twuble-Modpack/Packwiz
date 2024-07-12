@@ -702,7 +702,7 @@ hash = "f438f644ba202d977ce6564a3aa7edf7bf01e45552426c0e2dc80fbb55247bb9"
 
 [[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
-hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
+hash = "e1c67086eaf7e3df3066e81182a30b28d0b755c312cd6fa63aa4f12ecfc781cc"
 metafile = true
 
 [[files]]
