@@ -701,6 +701,11 @@ file = "mods/create-0.5.1-d-build.1162+mc1.20.1.jar"
 hash = "f438f644ba202d977ce6564a3aa7edf7bf01e45552426c0e2dc80fbb55247bb9"
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "c6986341022a2e7dac13d39f85e2e93d5960e2f84a3e43c5bc83a98ad378f363"
 metafile = true
