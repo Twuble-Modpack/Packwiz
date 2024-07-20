@@ -577,11 +577,6 @@ file = "config/yosbr/options.txt"
 hash = "2f41a36d939f81b31550e8348964ee667414e4137bc7628a6724eaa3be276b64"
 
 [[files]]
-file = "mods/2032-world-height.pw.toml"
-hash = "ef0a53843e48a63ea7a9ce77216cf66e7eafe0ea0a91a16ed39304118f5c65d4"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
