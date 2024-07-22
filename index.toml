@@ -925,6 +925,11 @@ hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
+file = "mods/limitless.pw.toml"
+hash = "3c389152d2acd795629f1942089516c3432fb50d92e7a91d3c5842d04b0183ff"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
