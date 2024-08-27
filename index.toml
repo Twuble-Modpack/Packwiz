@@ -637,6 +637,11 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "3104e69c401940e8d624c9795798b4cd6d2e031e18c7178c88a7e6c8a13ea552"
 metafile = true
@@ -689,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "fbcb74f0c731dcbfd8c43321587af0e442277078ef8629cf3ba56b951121789b"
 metafile = true
 
 [[files]]
